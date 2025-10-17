@@ -52,5 +52,14 @@ The primary objective of this system is to develop a robust application that mai
 * Mobile app integration
 * Cloud database connectivity
 
+
+🤝 Contribution for the project
+* ADTU/0/2025-29/BCSM/063  --------> AASHMIK CHAKRABORTY
+* ADTU/0/2025-29/BCSM/039  --------> SUDARSHAN BANIK
+* ADTU/0/2025-29/BCSM/081  --------> SUBHAJIT DEY
+* ADTU/0/2025-29/BCSM/074  --------> BIBEK KUMAR SINGH
+* ADTU/0/2025-29/BCSM/005  --------> ABHISHEK DEY
+* ADTU/0/2025-29/BCSM/076  --------> MANASH PRATIM TALUKDAR
+* ADTU/1/2025-29/BCSM/008  --------> TUHIN GHOSH
 ⭐ If you found this project helpful, don't forget to star the repository!
 
